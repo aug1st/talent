@@ -3,7 +3,7 @@ import { useEffect } from 'react'
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
-import { LinkedInLogoIcon, EnvelopeClosedIcon, MobileIcon, PersonIcon, BriefcaseIcon, GraduationCapIcon, CheckCircledIcon, BookmarkIcon, CodeIcon } from "@radix-ui/react-icons"
+import { LinkedInLogoIcon, EnvelopeClosedIcon, MobileIcon } from "@radix-ui/react-icons"
 import { ThemeToggle } from "@/components/theme-toggle"
 import { JobCard } from "@/components/job-card"
 
